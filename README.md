@@ -1,3 +1,3 @@
-# online-real-time-chat-socket.io
+# online real time chat socket.io
 
 # Don't forget to npm install
